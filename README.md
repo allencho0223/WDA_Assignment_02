@@ -10,8 +10,22 @@ Back-end
 - Laravel
 
 Front-end
-- React
+- HTML
+- CSS
+- JavaScript
+- ReactJS
 
 Databases
 - MySQL
 - Firebase
+
+Other techniques
+ - Entity Framework
+
+- PHP/Laravel
+![](project_images/help_main.png)
+![](project_images/help_ticket.png)
+
+- React
+![](project_images/react_enquiries.png)
+![](project_images/react_tech.png)
