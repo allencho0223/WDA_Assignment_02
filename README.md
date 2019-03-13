@@ -1,14 +1,17 @@
 # WDA_Assignment_02
 RMIT HelpDesk ver 2
 
-Co-developer: Theon Thai
+Team
+- Theon Thai
+- Allen Cho
 
-// Client side
+Back-end
 - PHP
 - Laravel
-- MySQL
 
-// Staff (server) side
+Front-end
 - React
-- Firebase
 
+Databases
+- MySQL
+- Firebase
